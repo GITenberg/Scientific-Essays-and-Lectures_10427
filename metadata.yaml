@@ -1,0 +1,31 @@
+_repo: Scientific-Essays-and-Lectures_10427
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Science'
+- GITenberg
+tableOfContents: On bio-geology -- The study of natural history -- Superstition --
+  Science -- Thoughts in a gravel-pit -- How to study natural history -- The natural
+  theology of the future.
+title: Scientific Essays and Lectures
+url: http://www.gutenberg.org/ebooks/10427
